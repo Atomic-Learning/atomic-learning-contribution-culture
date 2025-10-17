@@ -1,33 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning Contribution Culture",
+    "slug": "atomic-learning-contribution-culture",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "atomic-learning-introduction",
+            "description": "Introduces the basics of the Atomic Learning platform.."
         }
     ],
     "related": [
-        {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
-        }
     ]
 }
