@@ -9,10 +9,7 @@
     ],
     "duration": 2,
     "prerequisites": [
-        {
-            "slug": "atomic-learning-introduction",
-            "description": "Introduces the basics of the Atomic Learning platform.."
-        }
+        "atomic-learning-introduction"
     ],
     "related": [
     ]
